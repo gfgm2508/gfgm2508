@@ -11,6 +11,8 @@
     <br />    
     Adicionalmente, he colaborado en carácter de analista de datos independiente con varios estudios de mercado de firmas prestantes como FANALCA, MindLab y Sfera, es los que logré realizar estudios descriptivos hasta llegar a implementar algunos modelos de machine learning, como árboles de decisión.
     <br />    
+    Tengo conocmiento en diversos aplicativos, necesarios para el procesamiento y análisis de datos como Excel, IBM SPSS, Python, además de MySQL.
+    <br />    
 </details>
 
 
