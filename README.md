@@ -17,7 +17,7 @@
 
 <hr />
 <details>
-  <summary><strong> Contacto: </strong></summary>
+  <summary><h3> Contacto: </h3></summary>
   <div align="left">
     <a href="https://www.linkedin.com/in/gabriel-fernando-guti%C3%A9rrez-medina-b1901344/">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
