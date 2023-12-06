@@ -3,7 +3,7 @@
 
 <hr />
 <details>
-  <summary><strong> Sobre mi: </strong></summary>
+  <summary><h3> Sobre mi: </h3></summary>
     <br />
     Soy profesional de Estadística de la Universidad del Valle con estudios en ciencia de datos. Tengo más de 20 años de experiencia en el campo del análisis de datos, en diversos sectores de la economía, como el de salud y consumo masivo, tanto en lo público como en lo privado, asumiendo roles desde analista de datos hasta jefe de oficina o equipo de trabajo.
     <br />    
