@@ -15,7 +15,6 @@
     <br />    
 </details>
 
+<hr />
 
-<!--
-**gfgm2508/gfgm2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **gfgm2508/gfgm2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
