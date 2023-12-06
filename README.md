@@ -11,10 +11,20 @@
     <br />    
     Adicionalmente, he colaborado en carácter de analista de datos independiente con varios estudios de mercado de firmas prestantes como FANALCA, MindLab y Sfera, es los que logré realizar estudios descriptivos hasta llegar a implementar algunos modelos de machine learning, como árboles de decisión.
     <br />    
-    Tengo conocmiento en diversos aplicativos, necesarios para el procesamiento y análisis de datos como Excel, IBM SPSS, Python, además de MySQL.
+    Tengo conocmiento en diversos aplicativos necesarios para el procesamiento y análisis de datos, como: Excel, IBM SPSS, Python, además de MySQL.
     <br />    
 </details>
 
 <hr />
+<details>
+  <summary><strong> Contacto: </strong></summary>
+  <div align="left">
+    <a href="https://www.linkedin.com/in/gabriel-fernando-guti%C3%A9rrez-medina-b1901344/">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
+    </a>
+  </div>
+</details>
 
-<!-- **gfgm2508/gfgm2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
+**gfgm2508/gfgm2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
